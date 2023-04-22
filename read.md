@@ -1,7 +1,10 @@
 This Language Detector made using Naive Bayes Algorithm
 --------------------------------------------------------------------
-Can detect Upto 17 Languages
 
+Required packages are pandas, scikit-learn
+
+
+Can detect Upto 17 Languages
 Languages:
 
 1) English
